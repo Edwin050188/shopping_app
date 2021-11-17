@@ -1,2 +1,2 @@
 # shopping_app
-an e-commerce shopping app with react native
+  A shopping app using React Navigation, Redux, Redux-Thunk and Firebase.
